@@ -45,3 +45,5 @@ sudo apt install libsdl2-dev libglm-dev
 # macOS (brew)
 brew install sdl2 glm
 ```
+
+![alt text](image.png)
